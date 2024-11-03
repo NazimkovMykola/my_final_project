@@ -1,5 +1,9 @@
 const AboutMe = () => {
-    return <div>про мене</div>
+    return (
+        <div>
+            про <b>мене</b>
+        </div>
+    )
 }
 
 export default AboutMe

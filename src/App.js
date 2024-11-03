@@ -1,12 +1,13 @@
 import './App.css';
 import AboutMe from './page/aboutMe/AboutMe';
 
-function App() {
+
+function App () {
   return (
     <div className="App">
-      <AboutMe/>
+      <AboutMe />
     </div>
   );
 }
 
-export default App;
+export default App
